@@ -8,7 +8,7 @@ coca coronary calciuma nd chest CTs (standford datasets)
 https://huggingface.co/AICONSlab/3DINO-ViT/tree/main
 
 ### decoder: 
-ViTAdapterUNETR decoder from AICONSlab github
+ViTAdapterUNETR decoder from AICONSlab github https://github.com/AICONSlab/3DINO/tree/main
 
 ### low gpu VRAM:
 num workers = 0,
